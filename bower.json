@@ -1,0 +1,18 @@
+{
+  "name": "Portfolio Site",
+  "authors": [
+    "alexanderallis <alexandreallis@gmail.com>"
+  ],
+  "description": "my portfolio",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
